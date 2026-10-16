@@ -12,6 +12,12 @@ A basic Android music player developed using Kotlin and XML as a university assi
 - **Volume Control** — Adjust the device's music stream volume using a `SeekBar`.
 - **Automatic Progress Updates** — Periodically update the playback progress using `Handler` and `Runnable`.
 
+
+## Screenshots
+
+<img src="screenshots.jpg" alt="App Screenshot" width="200">
+
+
 ## 🛠️ Built With
 
 - **Kotlin** — Application logic
