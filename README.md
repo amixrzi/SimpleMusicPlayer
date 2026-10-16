@@ -15,7 +15,14 @@ A basic Android music player developed using Kotlin and XML as a university assi
 
 ## Screenshots
 
-<img src="screenshots.jpg" alt="App Screenshot" width="200">
+<p align="center">
+  <img
+    src="screenshots.jpg"
+    alt="App Screenshot"
+    width="200"
+    style="border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);"
+  />
+</p>
 
 
 ## 🛠️ Built With
